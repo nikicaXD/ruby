@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="RailsFacetType" name="Ruby on Rails">
+      <configuration>
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../chat" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../chat">
+      <sourceFolder url="file://$MODULE_DIR$/../../chat/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../chat/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../chat/features" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../chat/vendor/cache" />
+    </content>
+    <orderEntry type="jdk" jdkName="rbenv: 2.6.3" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, rbenv: 2.6.3) [gem]" level="application" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/../../chat/config/locales" />
+  </component>
+  <component name="RubyModuleProperties">
+    <option name="autoCreated" value="true" />
+  </component>
+</module>
